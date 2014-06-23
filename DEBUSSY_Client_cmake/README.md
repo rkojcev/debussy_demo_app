@@ -1,5 +1,9 @@
 debussy_demo_app
+
+Client PC application
 ================
+Developed by: Risto Kojcev
+rkojcev@gmail.com
 
 DEBUSSY flexible probe breaking system client app.
 

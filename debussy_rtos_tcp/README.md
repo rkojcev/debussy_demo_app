@@ -1,5 +1,8 @@
 debussy_demo_app
+Server Application
 ================
+Developed by: Risto Kojcev
+rkojcev@gmail.com
 
 DEBUSSY flexible probe breaking system server application/
 
